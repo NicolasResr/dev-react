@@ -1,0 +1,106 @@
+/* Define o estilo geral da página
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f8ff;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Estilo do contêiner principal */
+/* .card {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+  transition: background-color 0.5s ease;
+  position: relative;
+  overflow: hidden;
+} */
+
+/* Estilo do título */
+/* h1 {
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 20px;
+} */
+
+/* Estilo do input */
+/* input {
+  padding: 12px;
+  border-radius: 8px;
+  border: 2px solid #2a9d8f;
+  width: 80%;
+  margin-bottom: 20px;
+  font-size: 1rem;
+  outline: none;
+  transition: all 0.3s;
+} */
+
+/* Foco no input */
+/* input:focus {
+  border-color: #264653;
+  box-shadow: 0 0 5px #264653;
+} */
+
+/* Estilo do botão */
+/* button {
+  background-color: #2a9d8f;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+} */
+
+/* Desabilitar botão */
+/* button:disabled {
+  background-color: #d1d1d1;
+  cursor: not-allowed;
+} */
+
+/* Efeito hover do botão */
+/* button:hover:enabled {
+  background-color: #264653;
+} */
+
+/* Estilo para a mensagem de carregamento */
+/* p.carregando {
+  font-size: 1.2rem;
+  color: #e63946;
+} */
+
+/* Estilo para mensagens de erro */
+/* p {
+  font-size: 1rem;
+  color: #e63946;
+  font-weight: bold;
+} */
+
+/* Estilo da imagem do Pokémon */
+/* img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+} */
+
+/* Nome do Pokémon */
+/* .pokemon-info p.name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #000;
+  margin-top: 10px;
+} */ 
+
